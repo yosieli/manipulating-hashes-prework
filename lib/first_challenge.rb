@@ -14,9 +14,12 @@ def first_challenge
   }
 
   #your code here
-
-
-  #remember to return your newly altered contacts hash!
-  contacts
+data.each do|attribute,valve| 
+if attribute==:favorite_icecream_flavors && value=="strawberry"
+  value=nil
+#remember to return your newly altered contacts hash!
+end
+end
+value
 end
 
