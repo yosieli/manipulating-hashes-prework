@@ -22,6 +22,6 @@ if attribute==:favorite_icecream_flavors && value=="strawberry"
 end
 end
 end
-data
+contacts
 end
 
