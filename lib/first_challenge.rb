@@ -14,6 +14,7 @@ def first_challenge
   }
 
   #your code here
+contacts.each do |
 data.each do|attribute,valve| 
 if attribute==:favorite_icecream_flavors && value=="strawberry"
   value=nil
