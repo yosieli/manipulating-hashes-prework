@@ -20,6 +20,6 @@ if attribute==:favorite_icecream_flavors && value=="strawberry"
 #remember to return your newly altered contacts hash!
 end
 end
-value
+data
 end
 
